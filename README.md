@@ -1,5 +1,9 @@
 # 计算机毕业设计指南
 
+自助下单网站
+
+http://code.cxycsx.vip/
+
 2025计算机毕设选题精选
 
 毕业设计选题非常重要！非常重要！非常重要！（一定要收藏起来）
@@ -30,7 +34,7 @@ https://www.yuque.com/cxycsx/bve3ul/
 
 # 为什么选择我
 
-![](http://upload.cxycsx.vip/程序设计.png)
+![](http://upload.cxycsx.vip/%E6%9C%AA%E5%91%BD%E5%90%8D__2024-09-06+10_52_44.jpg)
 
 # 题目精选
 
